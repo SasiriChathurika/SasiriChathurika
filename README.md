@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bDaADE0RLeE/giphy.gif" width="150" alt="Robot waving">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Frobot-videos%2F901226716152%2F&psig=AOvVaw21CoAitXm_0267SN8dfYI3&ust=1742927930895000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCP19Ouo4wDFQAAAAAdAAAAABAo" width="150" alt="Robot waving">
 </p>
 
 # 👾 Hey there, I’m Sasiri Chathurika!  
