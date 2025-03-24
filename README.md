@@ -8,7 +8,7 @@ I’m a **Robotics Engineer in the making**—think of me as a code-wielding, ha
 
 <p align="center">
   <a href="https://github.com/SasiriChathurika"><img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github"></a>  
-  <a href="mailto:sasirichathurika02@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>  
+  <a href="mailto:sasirichathurika02@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>  
   <a href="https://www.linkedin.com/in/sasiri-chathurika"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
 </p>
 
